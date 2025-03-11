@@ -1,5 +1,5 @@
 {
-    "name": "Module RFID I2C",
+    "name": "RFID I2C",
     "description": "Mục mở rộng Yolo:Bit cho RFID 13.56MHz I2C",
     "libs": [
         "rfid.py",
